@@ -1,3 +1,48 @@
+
+APP functionality
+
+This app allows you to see photos after sigining in.
+
+Step1: Please signup with dummy email(eg: nitin@gmail.com) this will store the data in firebase
+
+step 2: please sigin for the next time to view photos.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
