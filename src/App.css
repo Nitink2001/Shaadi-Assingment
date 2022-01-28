@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+}
+.app {
+  background-color: #fafafa;
+}
+
+.app__header {
+  background-color: white;
+  padding: 20px;
+  border-bottom: 1px solid lightgrey;
+  object-fit: contain;
+  display: flex;
+  justify-content: space-between;
+}
+.app__headerImage {
+  width: 3em;
+  height: 3em;
+}
+.app__headtext {
+  font-family: cursive;
+  font-weight: bolder;
+}
+.app__signUp {
+  display: flex;
+  flex-direction: column;
+}
+.app__post {
+  padding: 20px;
+}
